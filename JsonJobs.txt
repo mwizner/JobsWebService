@@ -1,0 +1,43 @@
+JOB 1
+{
+  "isExtraMargin": true,
+  "printItems": [
+    {
+      "description": "envelopes",
+      "isTaxExemption": false,
+      "price": 520
+    },
+{
+      "description": "letterhead",
+      "isTaxExemption": true,
+      "price": 1983.37
+    }
+  ]
+}
+-----------------------------
+JOB 2
+{
+  "printItems": [
+    {
+      "description": "t-shirt",
+      "price": 294.04
+    }
+  ]
+}
+-----------------------------
+JOB 3
+{
+  "isExtraMargin": true,
+  "printItems": [
+    {
+      "description": "frisbees",
+      "isTaxExemption": true,
+      "price": 19385.38
+    },
+{
+      "description": "yo-yos",
+      "isTaxExemption": true,
+      "price": 1829
+    }
+  ]
+}
